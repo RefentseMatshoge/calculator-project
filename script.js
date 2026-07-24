@@ -1,6 +1,6 @@
 let display = document.getElementById("display");
 
-function appendValue (value) {
+function appendValue(value) {
   display.value += value;
 }
 
