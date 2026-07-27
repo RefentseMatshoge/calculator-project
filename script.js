@@ -23,8 +23,8 @@ function calculate() {
     let result;
 
     if (operator === "+") {
-        results = Number(firstNumber) + Number(secondNumber);
+        result = Number(firstNumber) + Number(secondNumber);
     }
 
-    display.value = results;
+    display.value = result;
 } 
