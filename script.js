@@ -22,8 +22,8 @@ function calculate() {
     let secondNumber = display.value;
     let result;
 
-    if (operator ==="+") {
-        results = Number(firstNumber) = Number(secondNumber);
+    if (operator === "+") {
+        results = Number(firstNumber) + Number(secondNumber);
     }
 
     display.value = results;
