@@ -27,4 +27,4 @@ function calculate() {
     }
 
     display.value = result;
-} 
+}
