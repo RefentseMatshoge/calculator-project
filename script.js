@@ -16,3 +16,15 @@ function chooseOperator(op) {
     operator = op;
     display.value = "";
 }
+
+function calculate() {
+
+    let secondNumber = display.value;
+    let result;
+
+    if (operator ==="+") {
+        results = Number(firstNumber) = Number(secondNumber);
+    }
+
+    display.value = results;
+} 
